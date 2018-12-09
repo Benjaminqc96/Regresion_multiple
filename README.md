@@ -1,2 +1,2 @@
-# Regresion_multiple
-Proyecto de análisis de regresión múltiple
+# Proyecto inferencia
+Proyecto de estadistica no parametrica
